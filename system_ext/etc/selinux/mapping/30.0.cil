@@ -1,0 +1,3 @@
+(typeattribute vendor_dataservice_app_30_0)
+(expandtypeattribute (vendor_dataservice_app_30_0) true)
+(typeattributeset vendor_dataservice_app_30_0 (vendor_dataservice_app))

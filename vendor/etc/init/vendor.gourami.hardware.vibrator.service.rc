@@ -1,0 +1,4 @@
+service vendor.gourami.vibrator /vendor/bin/hw/vendor.gourami.hardware.vibrator.service
+    class hal
+    user system
+    group system input

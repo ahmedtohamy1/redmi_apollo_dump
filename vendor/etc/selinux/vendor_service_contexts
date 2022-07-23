@@ -1,0 +1,4 @@
+#line 1 "device/xiaomi/gourami-sepolicy/vendor/google/composer/service_contexts"
+com.google.hardware.pixel.display.IDisplay/default                            u:object_r:hal_pixel_display_service:s0
+#line 1 "device/xiaomi/gourami-sepolicy/vendor/qcom/service_contexts"
+vendor.qti.hardware.radio.ims.IImsRadio/default        u:object_r:hal_telephony_service:s0

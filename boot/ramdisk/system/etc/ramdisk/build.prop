@@ -1,0 +1,23 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=Redmi
+ro.product.bootimage.device=apollo
+ro.product.bootimage.manufacturer=Xiaomi
+ro.product.bootimage.model=M2007J3SC
+ro.product.bootimage.name=apollo
+ro.bootimage.build.date=Thu Jul  7 21:15:06 CEST 2022
+ro.bootimage.build.date.utc=1657221306
+ro.bootimage.build.fingerprint=Redmi/apollo/apollo:12/SQ3A.220705.003.A1/20220707:user/release-keys
+ro.bootimage.build.id=SQ3A.220705.003.A1
+ro.bootimage.build.tags=release-keys
+ro.bootimage.build.type=user
+ro.bootimage.build.version.incremental=20220707
+ro.bootimage.build.version.release=12
+ro.bootimage.build.version.release_or_codename=12
+ro.bootimage.build.version.sdk=32
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
+
